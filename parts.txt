@@ -2,6 +2,9 @@ LABEL_NAMES = {
     # Background and basic subcortical structures
     0: 'Background',
     2: 'Left Cerebral White Matter',
+
+
+
     4: 'Left Lateral Ventricle',
     5: 'Left Inf Lat Vent',
     7: 'Left Cerebellum White Matter',
